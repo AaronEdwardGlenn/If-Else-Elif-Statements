@@ -13,6 +13,7 @@ if language == 'java':
     print('langage is python')
 else:
     print('no match')
+<<<<<<< HEAD
 
 # elif statement
 if language == 'python':
@@ -21,3 +22,5 @@ elif language == 'java':
     print('lang is java')
 else:
     print('no match')
+=======
+>>>>>>> 3f268b6b1cf042eb7c56733044dedf01e6a83271
